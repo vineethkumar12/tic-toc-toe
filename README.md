@@ -1,1 +1,1 @@
-go thorugh this link https://vineethkumar12.github.io/tic-toc-toe/
+go through this link https://vineethkumar12.github.io/tic-toc-toe/
